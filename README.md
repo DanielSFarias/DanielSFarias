@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001E24&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Daniel+Farias;I'm+21+years+old;I'm+from+Brazil;I+Student+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielSFarias&show_icons=true&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielSFarias&layout=compact&theme=dark"/>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DanielSFarias&bg_color=0d1117&color=00ADD1&line=00ADD1&point=B4BEC9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
